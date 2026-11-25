@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/hilalyoney/"><img src="https://img.shields.io/badge/LinkedIn-Hilal%20Y%C3%B6ney-161b22?style=for-the-badge&logo=linkedin&logoColor=22d3ee&labelColor=0d1117" alt="LinkedIn"></a>
   <a href="mailto:hilalyoney@hotmail.com"><img src="https://img.shields.io/badge/E--posta-hilalyoney%40hotmail.com-161b22?style=for-the-badge&logo=maildotru&logoColor=22d3ee&labelColor=0d1117" alt="E-posta"></a>
-  <a href="https://proofsender.com"><img src="https://img.shields.io/badge/Proje-proofsender.com-161b22?style=for-the-badge&logo=googlechrome&logoColor=22d3ee&labelColor=0d1117" alt="ProofSender"></a>
+  <a href="https://proofsender.com"><img src="https://img.shields.io/badge/Tan%C4%B1t%C4%B1m-proofsender.com-161b22?style=for-the-badge&logo=googlechrome&logoColor=22d3ee&labelColor=0d1117" alt="ProofSender"></a>
   <img src="https://img.shields.io/badge/Konum-%C4%B0stanbul,%20T%C3%BCrkiye-161b22?style=for-the-badge&logo=googlemaps&logoColor=22d3ee&labelColor=0d1117" alt="Konum">
 </p>
 
@@ -44,7 +44,7 @@ Mentorluk veren, yapılandırılmış bir güvenlik ekibinde **L1 SOC / güvenli
 
 ### ProofSender · e-posta güvenliği SaaS · [proofsender.com](https://proofsender.com)
 
-> **Kapalı beta.** Kaynak kodu gizli, bu yüzden repo yerine canlı siteye bağlantı veriyorum. Ürünü **tek başıma**, **Claude Code** ile geliştirdim (Ekim 2026'dan beri, tüm commit'ler bana ait).
+> **Kapalı beta.** Ürün henüz yayında değil; kaynak kodu gizli olduğu için repo yerine **tanıtım sayfasına** bağlantı veriyorum. Ürünü **tek başıma**, **Claude Code** ile geliştirdim (Ekim 2026'dan beri, tüm commit'ler bana ait).
 
 Küçük ve orta ölçekli şirketleri iki yerden korur: **alan adının sahteciliğe karşı yapılandırması** ve **gelen kutusuna düşen oltalama ve sahte fatura e-postaları**. E-postayı engellemez; şüpheli olanı açıklamalı bir uyarıyla bildirir.
 
