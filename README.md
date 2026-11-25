@@ -57,15 +57,9 @@ Küçük ve orta ölçekli şirketleri iki yerden korur: **alan adının sahteci
   </tr>
 </table>
 
-```mermaid
-flowchart LR
-    U["Kullanıcı<br/>Laravel + Livewire"] --> W["Web katmanı<br/>hesap · organizasyon · rol"]
-    W -->|kuyruk| E["Analiz motoru<br/>Python · FastAPI<br/>internete kapalı"]
-    W --- DB[("PostgreSQL<br/>Redis")]
-    M365["Microsoft 365<br/>Graph · OAuth"] --> W
-    G["Gmail<br/>API · OAuth"] --> W
-    E --> F["Bulgu<br/>ne bulundu · neden önemli · kanıt<br/>nasıl düzeltilir · nasıl doğrulanır"]
-```
+<p align="center">
+  <img src="assets/proofsender-architecture.svg" width="100%" alt="ProofSender mimarisi: Microsoft 365, Gmail ve DNS kaynakları, Laravel web katmanı, kuyruk, internete kapalı Python analiz motoru ve beş adımlı bulgu modeli">
+</p>
 
 **Alan adı koruması**
 - **SPF, DKIM, DMARC, MX, MTA-STS, TLS-RPT ve DNSSEC** kayıtlarını analiz eden ayrı analizörler; sürekli izleme ve DMARC raporları
