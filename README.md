@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/hilalyoney/"><img src="https://img.shields.io/badge/LinkedIn-Hilal%20Y%C3%B6ney-161b22?style=for-the-badge&logo=linkedin&logoColor=22d3ee&labelColor=0d1117" alt="LinkedIn"></a>
   <a href="mailto:hilalyoney@hotmail.com"><img src="https://img.shields.io/badge/E--posta-hilalyoney%40hotmail.com-161b22?style=for-the-badge&logo=maildotru&logoColor=22d3ee&labelColor=0d1117" alt="E-posta"></a>
-  <a href="https://proofsender.com"><img src="https://img.shields.io/badge/Tan%C4%B1t%C4%B1m-proofsender.com-161b22?style=for-the-badge&logo=googlechrome&logoColor=22d3ee&labelColor=0d1117" alt="ProofSender"></a>
+  <a href="https://proofsender.com"><img src="https://img.shields.io/badge/Tan%C4%B1t%C4%B1m-proofsender.com-161b22?style=for-the-badge&logo=googlechrome&logoColor=22d3ee&labelColor=0d1117" alt="Proofsender"></a>
   <img src="https://img.shields.io/badge/Konum-%C4%B0stanbul,%20T%C3%BCrkiye-161b22?style=for-the-badge&logo=googlemaps&logoColor=22d3ee&labelColor=0d1117" alt="Konum">
 </p>
 
@@ -19,7 +19,7 @@
 
 Dokuz yıla yakın ameliyathanede **anestezi teknikeri** olarak çalıştım. İşim, monitördeki sinyalleri sürekli izlemek, normalden sapmayı erken fark etmek, protokole uymak ve her uygulamayı kayıt altına almaktı. Bugün aynı refleksi **siber güvenliğe** taşıyorum: sinyal artık hastadan değil, sistemlerden ve e-postalardan geliyor.
 
-Kariyer değişikliğimi kendim planladım. **Bilgisayar Programcılığı** önlisansını onur öğrencisi olarak bitirdim, 120 saatlik siber güvenlik eğitimi aldım, Cisco'nun Introduction to Cybersecurity kursunu tamamladım; TryHackMe'de 12 oda bitirdim, Hack The Box'ta log incelemesine dayalı Brutus senaryosunu çözdüm. Öğrendiklerimi denemek için tek başıma, **Claude Code** ile bir e-posta güvenliği ürünü geliştirdim: **ProofSender**.
+Kariyer değişikliğimi kendim planladım. **Bilgisayar Programcılığı** önlisansını onur öğrencisi olarak bitirdim, 120 saatlik siber güvenlik eğitimi aldım, Cisco'nun Introduction to Cybersecurity kursunu tamamladım; TryHackMe'de 12 oda bitirdim, Hack The Box'ta log incelemesine dayalı Brutus senaryosunu çözdüm. Öğrendiklerimi denemek için tek başıma, **Claude Code** ile bir e-posta güvenliği ürünü geliştirdim: **Proofsender**.
 
 Mentorluk veren, yapılandırılmış bir güvenlik ekibinde **L1 SOC / güvenlik stajyeri** olarak başlamak istiyorum.
 
@@ -42,7 +42,7 @@ Mentorluk veren, yapılandırılmış bir güvenlik ekibinde **L1 SOC / güvenli
 
 ## Proje
 
-### ProofSender · e-posta güvenliği SaaS · [proofsender.com](https://proofsender.com)
+### Proofsender · e-posta güvenliği SaaS · [proofsender.com](https://proofsender.com)
 
 > **Kapalı beta.** Ürün henüz yayında değil; kaynak kodu gizli olduğu için repo yerine **tanıtım sayfasına** bağlantı veriyorum. Ürünü **tek başıma**, **Claude Code** ile geliştirdim (Ekim 2026'dan beri, tüm commit'ler bana ait).
 
@@ -58,7 +58,7 @@ Küçük ve orta ölçekli şirketleri iki yerden korur: **alan adının sahteci
 </table>
 
 <p align="center">
-  <img src="assets/proofsender-architecture.svg" width="100%" alt="ProofSender mimarisi: Microsoft 365, Gmail ve DNS kaynakları, Laravel web katmanı, kuyruk, internete kapalı Python analiz motoru ve beş adımlı bulgu modeli">
+  <img src="assets/proofsender-architecture.svg" width="100%" alt="Proofsender mimarisi: Microsoft 365, Gmail ve DNS kaynakları, Laravel web katmanı, kuyruk, internete kapalı Python analiz motoru ve beş adımlı bulgu modeli">
 </p>
 
 **Alan adı koruması**
@@ -85,7 +85,7 @@ Küçük ve orta ölçekli şirketleri iki yerden korur: **alan adının sahteci
 **Güvenlik ve sistem**<br>
 <img src="https://img.shields.io/badge/Linux-161b22?style=for-the-badge&logo=linux&logoColor=22d3ee"> <img src="https://img.shields.io/badge/Kali%20Linux-161b22?style=for-the-badge&logo=kalilinux&logoColor=22d3ee"> <img src="https://img.shields.io/badge/Nmap-161b22?style=for-the-badge"> <img src="https://img.shields.io/badge/Burp%20Suite-161b22?style=for-the-badge&logo=burpsuite&logoColor=22d3ee"> <img src="https://img.shields.io/badge/Gobuster-161b22?style=for-the-badge"> <img src="https://img.shields.io/badge/TryHackMe-161b22?style=for-the-badge&logo=tryhackme&logoColor=22d3ee"> <img src="https://img.shields.io/badge/Cisco-161b22?style=for-the-badge&logo=cisco&logoColor=22d3ee"> <img src="https://img.shields.io/badge/Hack%20The%20Box-161b22?style=for-the-badge&logo=hackthebox&logoColor=22d3ee">
 
-**ProofSender'da kullandıklarım (Claude Code ile)**<br>
+**Proofsender'da kullandıklarım (Claude Code ile)**<br>
 <img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=22d3ee"> <img src="https://img.shields.io/badge/FastAPI-161b22?style=for-the-badge&logo=fastapi&logoColor=22d3ee"> <img src="https://img.shields.io/badge/Laravel-161b22?style=for-the-badge&logo=laravel&logoColor=22d3ee"> <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=for-the-badge&logo=postgresql&logoColor=22d3ee"> <img src="https://img.shields.io/badge/Redis-161b22?style=for-the-badge&logo=redis&logoColor=22d3ee"> <img src="https://img.shields.io/badge/Docker-161b22?style=for-the-badge&logo=docker&logoColor=22d3ee"> <img src="https://img.shields.io/badge/GitHub%20Actions-161b22?style=for-the-badge&logo=githubactions&logoColor=22d3ee"> <img src="https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=22d3ee"> <img src="https://img.shields.io/badge/Claude%20Code-161b22?style=for-the-badge&logo=anthropic&logoColor=22d3ee">
 
 **Programlama (temel)**<br>
