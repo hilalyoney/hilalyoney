@@ -33,7 +33,7 @@ Mentorluk veren, yapılandırılmış bir güvenlik ekibinde **L1 SOC / güvenli
   <tr>
     <td valign="top">Saldırı vektörleri ve savunma<br>Log ve olay analizi (temel)<br>Kimlik doğrulama, erişim kontrolü<br>Kriptografi, hash, şifreleme</td>
     <td valign="top">SPF · DKIM · DMARC<br>MTA-STS · TLS-RPT · DNSSEC<br>Oltalama ve benzer alan adı<br>Sahte fatura / IBAN sinyalleri</td>
-    <td valign="top">Linux komutları, Kali (temel)<br>TCP/IP, subnetting (temel)<br>DNS, HTTP/HTTPS<br>Nmap ile port ve servis keşfi</td>
+    <td valign="top">Linux komutları, Kali (temel)<br>TCP/IP, subnetting (temel)<br>DNS, HTTP/HTTPS<br>Nmap, Burp Suite, Gobuster (lab)</td>
     <td valign="top">Sürekli izleme ve alarm takibi<br>Baskı altında sakin karar<br>Protokol ve kontrol listesi<br>Hassas veri ve mahremiyet</td>
   </tr>
 </table>
@@ -83,7 +83,7 @@ Küçük ve orta ölçekli şirketleri iki yerden korur: **alan adının sahteci
 ## Araçlar
 
 **Güvenlik ve sistem**<br>
-<img src="https://img.shields.io/badge/Linux-161b22?style=for-the-badge&logo=linux&logoColor=22d3ee"> <img src="https://img.shields.io/badge/Kali%20Linux-161b22?style=for-the-badge&logo=kalilinux&logoColor=22d3ee"> <img src="https://img.shields.io/badge/Nmap-161b22?style=for-the-badge"> <img src="https://img.shields.io/badge/TryHackMe-161b22?style=for-the-badge&logo=tryhackme&logoColor=22d3ee"> <img src="https://img.shields.io/badge/Cisco-161b22?style=for-the-badge&logo=cisco&logoColor=22d3ee"> <img src="https://img.shields.io/badge/Hack%20The%20Box-161b22?style=for-the-badge&logo=hackthebox&logoColor=22d3ee">
+<img src="https://img.shields.io/badge/Linux-161b22?style=for-the-badge&logo=linux&logoColor=22d3ee"> <img src="https://img.shields.io/badge/Kali%20Linux-161b22?style=for-the-badge&logo=kalilinux&logoColor=22d3ee"> <img src="https://img.shields.io/badge/Nmap-161b22?style=for-the-badge"> <img src="https://img.shields.io/badge/Burp%20Suite-161b22?style=for-the-badge&logo=burpsuite&logoColor=22d3ee"> <img src="https://img.shields.io/badge/Gobuster-161b22?style=for-the-badge"> <img src="https://img.shields.io/badge/TryHackMe-161b22?style=for-the-badge&logo=tryhackme&logoColor=22d3ee"> <img src="https://img.shields.io/badge/Cisco-161b22?style=for-the-badge&logo=cisco&logoColor=22d3ee"> <img src="https://img.shields.io/badge/Hack%20The%20Box-161b22?style=for-the-badge&logo=hackthebox&logoColor=22d3ee">
 
 **ProofSender'da kullandıklarım (Claude Code ile)**<br>
 <img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=22d3ee"> <img src="https://img.shields.io/badge/FastAPI-161b22?style=for-the-badge&logo=fastapi&logoColor=22d3ee"> <img src="https://img.shields.io/badge/Laravel-161b22?style=for-the-badge&logo=laravel&logoColor=22d3ee"> <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=for-the-badge&logo=postgresql&logoColor=22d3ee"> <img src="https://img.shields.io/badge/Redis-161b22?style=for-the-badge&logo=redis&logoColor=22d3ee"> <img src="https://img.shields.io/badge/Docker-161b22?style=for-the-badge&logo=docker&logoColor=22d3ee"> <img src="https://img.shields.io/badge/GitHub%20Actions-161b22?style=for-the-badge&logo=githubactions&logoColor=22d3ee"> <img src="https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=22d3ee"> <img src="https://img.shields.io/badge/Claude%20Code-161b22?style=for-the-badge&logo=anthropic&logoColor=22d3ee">
