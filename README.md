@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hilal-y%C3%B6ney-7ab8a5256/"><img src="https://img.shields.io/badge/LinkedIn-Hilal%20Y%C3%B6ney-161b22?style=for-the-badge&logo=linkedin&logoColor=22d3ee&labelColor=0d1117" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/hilalyoney/"><img src="https://img.shields.io/badge/LinkedIn-Hilal%20Y%C3%B6ney-161b22?style=for-the-badge&logo=linkedin&logoColor=22d3ee&labelColor=0d1117" alt="LinkedIn"></a>
   <a href="mailto:hilalyoney@hotmail.com"><img src="https://img.shields.io/badge/E--posta-hilalyoney%40hotmail.com-161b22?style=for-the-badge&logo=maildotru&logoColor=22d3ee&labelColor=0d1117" alt="E-posta"></a>
   <a href="https://proofsender.com"><img src="https://img.shields.io/badge/Proje-proofsender.com-161b22?style=for-the-badge&logo=googlechrome&logoColor=22d3ee&labelColor=0d1117" alt="ProofSender"></a>
   <img src="https://img.shields.io/badge/Konum-%C4%B0stanbul,%20T%C3%BCrkiye-161b22?style=for-the-badge&logo=googlemaps&logoColor=22d3ee&labelColor=0d1117" alt="Konum">
@@ -19,7 +19,7 @@
 
 Dokuz yıla yakın ameliyathanede **anestezi teknikeri** olarak çalıştım. İşim, monitördeki sinyalleri sürekli izlemek, normalden sapmayı erken fark etmek, protokole uymak ve her uygulamayı kayıt altına almaktı. Bugün aynı refleksi **siber güvenliğe** taşıyorum: sinyal artık hastadan değil, sistemlerden ve e-postalardan geliyor.
 
-Kariyer değişikliğimi kendim planladım. **Bilgisayar Programcılığı** önlisansını onur öğrencisi olarak bitirdim, 120 saatlik siber güvenlik eğitimi aldım, Cisco eğitimlerine ve TryHackMe lab'larına devam ediyorum. Öğrendiklerimi denemek için tek başıma, **Claude Code** ile bir e-posta güvenliği ürünü geliştirdim: **ProofSender**.
+Kariyer değişikliğimi kendim planladım. **Bilgisayar Programcılığı** önlisansını onur öğrencisi olarak bitirdim, 120 saatlik siber güvenlik eğitimi aldım, Cisco'nun Introduction to Cybersecurity kursunu tamamladım ve TryHackMe lab'larına devam ediyorum. Öğrendiklerimi denemek için tek başıma, **Claude Code** ile bir e-posta güvenliği ürünü geliştirdim: **ProofSender**.
 
 Mentorluk veren, yapılandırılmış bir güvenlik ekibinde **L1 SOC / güvenlik stajyeri** olarak başlamak istiyorum.
 
@@ -97,7 +97,7 @@ Küçük ve orta ölçekli şirketleri iki yerden korur: **alan adının sahteci
 
 - **Bilgisayar Programcılığı (Önlisans)** · Anadolu Üniversitesi · 2024 → 2026 · mezun, GNO 3.18 / 4, **Onur Öğrencisi**
 - **Siber Güvenlik Uzmanlığı Eğitimi (120 saat)** · Unityverse Academy · Ocak 2024 · katılım belgesi; kriptografi, uygulama güvenliği, saldırı tespit sistemleri, olay yanıtı ve adli bilişim
-- **Cisco ağ ve siber güvenlik eğitimleri** · devam ediyor
+- **Cisco Networking Academy · Introduction to Cybersecurity** · Kasım 2026 · tamamlandı
 - **TryHackMe** · Pre Security yolu · devam ediyor
 - **Anestezi (Önlisans)** · İstanbul Aydın Üniversitesi · 2013 → 2015
 
