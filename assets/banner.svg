@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-labelledby="t d">
+  <title id="t">Hilal Yöney · Siber Güvenlik Stajyer Adayı</title>
+  <desc id="d">Ameliyathane monitöründeki EKG çizgisi, ağ trafiği sinyaline dönüşüyor.</desc>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#1b2530" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0" stop-color="#0d1117" stop-opacity="0.95"/>
+      <stop offset="0.55" stop-color="#0d1117" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#0d1117" stop-opacity="0.2"/>
+    </linearGradient>
+    <linearGradient id="trace" x1="0" x2="1">
+      <stop offset="0" stop-color="#f472b6"/>
+      <stop offset="0.48" stop-color="#f472b6"/>
+      <stop offset="0.56" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+      .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+      .line{stroke-dasharray:2600;stroke-dashoffset:2600;animation:draw 5s ease-out forwards}
+      .cursor{animation:blink 1.1s steps(1) infinite}
+      @keyframes draw{to{stroke-dashoffset:0}}
+      @keyframes blink{50%{opacity:0}}
+    </style>
+  </defs>
+
+  <rect width="1200" height="320" rx="14" fill="#0d1117"/>
+  <rect width="1200" height="320" rx="14" fill="url(#grid)"/>
+  <rect width="1200" height="320" rx="14" fill="url(#fade)"/>
+  <rect x="0.5" y="0.5" width="1199" height="319" rx="14" fill="none" stroke="#30363d"/>
+
+  <!-- signal trace: ECG (left) becomes network packets (right) -->
+  <path class="line" filter="url(#glow)" fill="none" stroke="url(#trace)" stroke-width="2.5" stroke-linejoin="round"
+        d="M40 262 H150 l10 -6 l10 6 h18 l8 18 l12 -62 l12 58 l8 -14 h26 l14 -10 l14 10 H360 l10 -6 l10 6 h18 l8 18 l12 -62 l12 58 l8 -14 h26 l14 -10 l14 10 H600
+           v-26 h22 v26 h12 v-26 h10 v26 h30 v-26 h22 v26 h12 v-26 h10 v26 h30 v-26 h44 v26 h20 v-26 h10 v26 h30
+           v-26 h22 v26 h12 v-26 h10 v26 h30 v-26 h22 v26 h12 v-26 h10 v26 H1160"/>
+
+  <text x="150" y="300" class="mono" font-size="13" fill="#f472b6" opacity="0.85">vital bulgular · 9 yıl ameliyathane</text>
+  <text x="792" y="300" class="mono" font-size="13" fill="#22d3ee" opacity="0.85">ağ ve e-posta sinyalleri · bugün</text>
+
+  <!-- identity -->
+  <text x="56" y="92" class="sans" font-size="54" font-weight="700" fill="#e6edf3" letter-spacing="1">Hilal Yöney</text>
+  <text x="58" y="134" class="sans" font-size="24" font-weight="500" fill="#22d3ee">Siber Güvenlik Stajyer Adayı</text>
+  <text x="58" y="170" class="mono" font-size="16" fill="#8b949e">Junior SOC · E-posta Güvenliği · IT Destek · Sağlık BT</text>
+  <text x="58" y="198" class="mono" font-size="16" fill="#8b949e">$ whoami → anestezi teknikeri → bilgisayar programcısı<tspan class="cursor" fill="#22d3ee"> ▌</tspan></text>
+
+  <!-- shield -->
+  <g transform="translate(1010 50)" filter="url(#glow)">
+    <path d="M70 0 L134 24 V78 C134 122 106 152 70 168 C34 152 6 122 6 78 V24 Z" fill="#0d1117" stroke="#22d3ee" stroke-width="3"/>
+    <path d="M70 18 L118 36 V78 C118 112 98 136 70 150 C42 136 22 112 22 78 V36 Z" fill="none" stroke="#22d3ee" stroke-opacity="0.35" stroke-width="1.5"/>
+    <!-- envelope -->
+    <rect x="40" y="62" width="60" height="42" rx="4" fill="none" stroke="#e6edf3" stroke-width="2.5"/>
+    <path d="M40 66 L70 88 L100 66" fill="none" stroke="#e6edf3" stroke-width="2.5" stroke-linejoin="round"/>
+    <path d="M56 120 l10 10 l20 -22" fill="none" stroke="#22d3ee" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
