@@ -19,7 +19,7 @@
 
 Dokuz yıla yakın ameliyathanede **anestezi teknikeri** olarak çalıştım. İşim, monitördeki sinyalleri sürekli izlemek, normalden sapmayı erken fark etmek, protokole uymak ve her uygulamayı kayıt altına almaktı. Bugün aynı refleksi **siber güvenliğe** taşıyorum: sinyal artık hastadan değil, sistemlerden ve e-postalardan geliyor.
 
-Kariyer değişikliğimi kendim planladım. **Bilgisayar Programcılığı** önlisansını onur öğrencisi olarak bitirdim, 120 saatlik siber güvenlik eğitimi aldım, Cisco'nun Introduction to Cybersecurity kursunu tamamladım ve TryHackMe lab'larına devam ediyorum. Öğrendiklerimi denemek için tek başıma, **Claude Code** ile bir e-posta güvenliği ürünü geliştirdim: **ProofSender**.
+Kariyer değişikliğimi kendim planladım. **Bilgisayar Programcılığı** önlisansını onur öğrencisi olarak bitirdim, 120 saatlik siber güvenlik eğitimi aldım, Cisco'nun Introduction to Cybersecurity kursunu tamamladım; TryHackMe'de 12 oda bitirdim, Hack The Box'ta log incelemesine dayalı Brutus senaryosunu çözdüm. Öğrendiklerimi denemek için tek başıma, **Claude Code** ile bir e-posta güvenliği ürünü geliştirdim: **ProofSender**.
 
 Mentorluk veren, yapılandırılmış bir güvenlik ekibinde **L1 SOC / güvenlik stajyeri** olarak başlamak istiyorum.
 
@@ -83,7 +83,7 @@ Küçük ve orta ölçekli şirketleri iki yerden korur: **alan adının sahteci
 ## Araçlar
 
 **Güvenlik ve sistem**<br>
-<img src="https://img.shields.io/badge/Linux-161b22?style=for-the-badge&logo=linux&logoColor=22d3ee"> <img src="https://img.shields.io/badge/Kali%20Linux-161b22?style=for-the-badge&logo=kalilinux&logoColor=22d3ee"> <img src="https://img.shields.io/badge/Nmap-161b22?style=for-the-badge"> <img src="https://img.shields.io/badge/TryHackMe-161b22?style=for-the-badge&logo=tryhackme&logoColor=22d3ee"> <img src="https://img.shields.io/badge/Cisco-161b22?style=for-the-badge&logo=cisco&logoColor=22d3ee">
+<img src="https://img.shields.io/badge/Linux-161b22?style=for-the-badge&logo=linux&logoColor=22d3ee"> <img src="https://img.shields.io/badge/Kali%20Linux-161b22?style=for-the-badge&logo=kalilinux&logoColor=22d3ee"> <img src="https://img.shields.io/badge/Nmap-161b22?style=for-the-badge"> <img src="https://img.shields.io/badge/TryHackMe-161b22?style=for-the-badge&logo=tryhackme&logoColor=22d3ee"> <img src="https://img.shields.io/badge/Cisco-161b22?style=for-the-badge&logo=cisco&logoColor=22d3ee"> <img src="https://img.shields.io/badge/Hack%20The%20Box-161b22?style=for-the-badge&logo=hackthebox&logoColor=22d3ee">
 
 **ProofSender'da kullandıklarım (Claude Code ile)**<br>
 <img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=22d3ee"> <img src="https://img.shields.io/badge/FastAPI-161b22?style=for-the-badge&logo=fastapi&logoColor=22d3ee"> <img src="https://img.shields.io/badge/Laravel-161b22?style=for-the-badge&logo=laravel&logoColor=22d3ee"> <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=for-the-badge&logo=postgresql&logoColor=22d3ee"> <img src="https://img.shields.io/badge/Redis-161b22?style=for-the-badge&logo=redis&logoColor=22d3ee"> <img src="https://img.shields.io/badge/Docker-161b22?style=for-the-badge&logo=docker&logoColor=22d3ee"> <img src="https://img.shields.io/badge/GitHub%20Actions-161b22?style=for-the-badge&logo=githubactions&logoColor=22d3ee"> <img src="https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=22d3ee"> <img src="https://img.shields.io/badge/Claude%20Code-161b22?style=for-the-badge&logo=anthropic&logoColor=22d3ee">
@@ -98,7 +98,8 @@ Küçük ve orta ölçekli şirketleri iki yerden korur: **alan adının sahteci
 - **Bilgisayar Programcılığı (Önlisans)** · Anadolu Üniversitesi · 2024 → 2026 · mezun, GNO 3.18 / 4, **Onur Öğrencisi**
 - **Siber Güvenlik Uzmanlığı Eğitimi (120 saat)** · Unityverse Academy · Ocak 2024 · katılım belgesi; kriptografi, uygulama güvenliği, saldırı tespit sistemleri, olay yanıtı ve adli bilişim
 - **Cisco Networking Academy · Introduction to Cybersecurity** · Kasım 2026 · tamamlandı
-- **TryHackMe** · Pre Security yolu · devam ediyor
+- **TryHackMe** · [hyny](https://tryhackme.com/p/hyny) · 12 oda, Top %30 · SOC Role in Blue Team, Junior Security Analyst Intro, Defensive Security Intro, Web Application Security, Guided Pentest: Web
+- **Hack The Box** · crescent07 · **Brutus** Sherlock (Ekim 2024): auth.log ve wtmp kayıtlarından SSH kaba kuvvet saldırısı incelemesi
 - **Anestezi (Önlisans)** · İstanbul Aydın Üniversitesi · 2013 → 2015
 
 ---
